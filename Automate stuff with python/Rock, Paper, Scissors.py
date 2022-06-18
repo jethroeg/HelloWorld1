@@ -27,7 +27,7 @@ elif pick == "s":
 
 #display what the computer chose
 
-randomNumber = random.radint(1,4)
+randomNumber = random.radint(1,3)
 
 if randomNumber == 1:
     print("PAPER")
